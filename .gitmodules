@@ -5,6 +5,9 @@
 [submodule "RCALI"]
 	path = RCALI
 	url = https://github.com/cran/RCALI
+[submodule "SMITIDstruct"]
+	path = SMITIDstruct
+	url = https://github.com/cran/SMITIDstruct
 [submodule "SMITIDvisu"]
 	path = SMITIDvisu
 	url = https://github.com/cran/SMITIDvisu
